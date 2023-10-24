@@ -117,7 +117,7 @@ md"### Figure 9"
 pl_Fig9 = SD.plot_ϕ_heatmap(30)
 
 # ╔═╡ 0b0a6317-2253-4b6b-a089-b33efe7682c1
-savefig(pl_Fig9,"./figs/fig_phi.pdf")
+savefig(pl_Fig9,"./figs/Fig9.pdf")
 
 # ╔═╡ 83b162d8-d17c-43c7-ae48-31fce0f6faf3
 md"### Figure 10"
